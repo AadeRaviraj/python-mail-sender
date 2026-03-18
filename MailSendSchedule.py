@@ -47,7 +47,7 @@ def send_mail(sender, app_password, receiver, subject, body) :
 def main():
     sender_email = "ravirajade2@gmail.com"
     
-    app_passward = "waiy ebld ffyb lqxv"
+    app_passward = "XXXX XXXX XXXX XXXX"
     
     receive_email = "ravirajaade15@gmail.com" 
     
